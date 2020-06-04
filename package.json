@@ -1,0 +1,34 @@
+{
+  "name": "muneya",
+  "version": "1.4.0",
+  "description": "Discord Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "yete": "echo hello"
+  },
+  "author": "JuiciiOfficial",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/opus": "^0.1.0",
+    "avconv": "^3.1.0",
+    "bootbox": "^5.4.0",
+    "dblapi.js": "^2.4.0",
+    "discord.js": "^12.2.0",
+    "dotenv": "^8.2.0",
+    "ffmpeg": "0.0.4",
+    "ffmpeg-static": "^4.2.2",
+    "fluent-ffmpeg": "^2.1.2",
+    "imageapi.js": "^1.0.3",
+    "memejs": "^1.2.3",
+    "mongoose": "^5.9.15",
+    "random-puppy": "^1.1.0",
+    "random-text-meme": "^1.1.9",
+    "reddit": "^1.0.3",
+    "reddit-simple": "^2.1.1",
+    "snekfetch": "^4.0.4",
+    "ytdl-core": "^2.1.4"
+  },
+  "devDependencies": {},
+  "keywords": []
+}
